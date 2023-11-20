@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a seasoned full-stack developer with 15+ years of software development and team management expertise. 
+I am a seasoned full-stack developer with 18+ years of software development and team management expertise. 
 
 I love to code and share my knowledge and experiences on [my personal blog](https://mohitaneja.com).
 
